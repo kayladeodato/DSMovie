@@ -3,3 +3,23 @@
 * {
     font-family: 'Open Sans', 'Sans-serif';
 }
+
+html, body {
+    background-color: #ddd;
+}
+
+header {
+    background: purple;
+    color: #fff;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+a , a:hover {
+    color: unset;
+    text-decoration: none;
+}
