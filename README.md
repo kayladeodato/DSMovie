@@ -3,19 +3,19 @@
 
 ## 🎯 Objetivo do projeto
 
-### Proporcionar as pessoas a deixarem a sua experiência ao assistir determinado filme e ajudar as outras pessoas que ainda não assistiram ou querem assistir filmes.
+#### Proporcionar as pessoas a deixarem a sua experiência ao assistir determinado filme e ajudar as outras pessoas que ainda não assistiram ou querem assistir filmes.
 
 ## 🛠 Tecnologias utilizadas
 
-### CSS3 e HTML5;
+#### CSS3 e HTML5;
 
 ## 🕒 Status do projeto
 
-### Em andamento;
+#### Em andamento;
 
 ## 👩🏻 Autor
 
-### @kayladeodato
+#### @kayladeodato
 
 
 
