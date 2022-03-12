@@ -1,21 +1,21 @@
-##📺Catálogo de filmes 
+# !📺Catálogo de filmes
+>  *O projeto consiste em um catálogo de filmes na qual você pode realizar a avaliação do filme que assistir.*
 
-🚧O projeto está em andamento. 🚧
+## 🎯 Objetivo do projeto
 
-##💬 Descrição: 
-###O projeto consiste em um catálogo de filmes na qual você pode realizar a avaliação do filme que assistir.
+### Proporcionar as pessoas a deixarem a sua experiência ao assistir determinado filme e ajudar as outras pessoas que ainda não assistiram ou querem assistir filmes.
 
-##🎯 Ojetivo do projeto: 
-###Proporcionar as pessoas a deixarem a sua experiência ao assistir determinado filme e ajudar as outras pessoas que ainda não assistiram ou querem assistir filmes.
+## 🛠 Tecnologias utilizadas
 
-##🛠 Tecnologias utilizadas: 
-###CSS3 e HTML5;
+### CSS3 e HTML5;
 
-##🕒 Status do projeto: 
-###Em anamento.
+## 🕒 Status do projeto
 
-##👩🏻 Autor: 
-###@kayladeodato
+### Em andamento;
+
+## 👩🏻 Autor
+
+### @kayladeodato
 
 
 
