@@ -1,4 +1,4 @@
-# !📺Catálogo de filmes
+# 📺Catálogo de filmes
 >  *O projeto consiste em um catálogo de filmes na qual você pode realizar a avaliação do filme que assistir.*
 
 ## 🎯 Objetivo do projeto
